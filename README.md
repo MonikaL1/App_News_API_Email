@@ -1,0 +1,1 @@
+This app accesses news about a particukar topic and sens them bu email
